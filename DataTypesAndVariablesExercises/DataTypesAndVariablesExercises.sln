@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem9ReverseCharacters",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem10CenturiesToNanoseconds", "problem10CenturiesToNanoseconds\problem10CenturiesToNanoseconds.csproj", "{DD6B3C72-3A94-4865-8335-72EC101FEAF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testGitHub", "testGitHub\testGitHub.csproj", "{C905E504-F0BF-4193-BB5C-CB0DF2172231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{DD6B3C72-3A94-4865-8335-72EC101FEAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6B3C72-3A94-4865-8335-72EC101FEAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6B3C72-3A94-4865-8335-72EC101FEAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C905E504-F0BF-4193-BB5C-CB0DF2172231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C905E504-F0BF-4193-BB5C-CB0DF2172231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C905E504-F0BF-4193-BB5C-CB0DF2172231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C905E504-F0BF-4193-BB5C-CB0DF2172231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

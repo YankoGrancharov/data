@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem1PracticeIntegerNumbers", "ConsoleApp1\problem1PracticeIntegerNumbers.csproj", "{148B918B-154C-4CCE-BC23-CE4CD78A326C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem1PracticeIntegerNumbers", "problem1PracticeIntegerNumbers\problem1PracticeIntegerNumbers.csproj", "{148B918B-154C-4CCE-BC23-CE4CD78A326C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem2PracticeFloatingPointNumbers", "problem2PracticeFloatingPointNumbers\problem2PracticeFloatingPointNumbers.csproj", "{1EAE18C3-B244-45A8-B47B-42229A3AFB0A}"
 EndProject

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testGitHub", "testGitHub\te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem11ConvertSpeedUnits", "problem11ConvertSpeedUnits\problem11ConvertSpeedUnits.csproj", "{F88C58CE-4A85-47A5-9A18-E6B74C0C917B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem12RectangleProperties", "problem12RectangleProperties\problem12RectangleProperties.csproj", "{A3258170-8CAE-461D-B947-4077C396BB07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F88C58CE-4A85-47A5-9A18-E6B74C0C917B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F88C58CE-4A85-47A5-9A18-E6B74C0C917B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F88C58CE-4A85-47A5-9A18-E6B74C0C917B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3258170-8CAE-461D-B947-4077C396BB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3258170-8CAE-461D-B947-4077C396BB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3258170-8CAE-461D-B947-4077C396BB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3258170-8CAE-461D-B947-4077C396BB07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
